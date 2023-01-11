@@ -1,1 +1,0 @@
-https://jade-gnome-645944.netlify.app/
